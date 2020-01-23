@@ -13,10 +13,11 @@ Adds in a Mark and Recall ability similar to what TES games had untill oblivion.
      the beautiful sethome datapack upon which this is based. <3
      Made this for my own server but I thought other folks may appreciate its functionality.
      
-     Credits:
+Credits:
 Vanilla Tweaks by Xisumavoid: https://www.xisumavoid.com/vanillatweaks
 
      Thank you for checking out the pack!  I hope you enjoy!
      
-Cheers
+Cheers  
+
 -Infamous
