@@ -8,6 +8,7 @@ Adds in a Mark and Recall ability similar to what TES games had untill oblivion.
           Command:
      /trigger sw_help
      Will explain how things work in-game.
+     /function sw:uninstall to unisntall the scoreboards for the datapack. (useful when updating versions)
      
      A special Thank you to Xisuma and the Vanilla Tweaks Team for putting together 
      the beautiful sethome datapack upon which this is based. <3
