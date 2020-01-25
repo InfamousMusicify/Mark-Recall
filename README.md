@@ -1,4 +1,6 @@
      Mark/ Recall
+     Minecraft Mark and Recall "Spell"
+     
 Adds in a Mark and Recall ability similar to what TES games had untill oblivion.
 
           Craft:
