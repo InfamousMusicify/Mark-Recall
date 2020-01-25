@@ -1,4 +1,10 @@
-     
+   
+     Version 2.1:
+Added a workaround for a vanilla bug:
+The Bug: In vanilla minecraft, when you teleport Via command from 1 Dimension to another,
+your Exp bar gets glitched, you cannot enchant until you pickup exp,
+its a real pain.  This update aims to fix that strange base game bug.
+   
      Version 2.0:
 Fixed Stacking Bug where you needed 2 items to use the ability.
      
