@@ -12,6 +12,9 @@ Adds in a Mark and Recall ability similar to what TES games had untill oblivion.
      Will explain how things work in-game.
      /function sw:uninstall to unisntall the scoreboards for the datapack. (useful when updating versions)
      
+How to Install a Datapack:
+https://www.youtube.com/watch?v=4Dxzw12TQcg
+     
      A special Thank you to Xisuma and the Vanilla Tweaks Team for putting together 
      the beautiful sethome datapack upon which this is based. <3
      Made this for my own server but I thought other folks may appreciate its functionality.
