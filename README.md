@@ -3,11 +3,11 @@
      
 Adds in a Mark and Recall ability similar to what TES games had untill oblivion.
 
-          Download/Install:
+Download/Install:
       Click MarkRecVx.x and then click download.  (same applys to "Mark-Recall Textures Vx.x" if you desire the textures.)
       (Paste resource pack into resource pack folder.)
       Paste the datapack into your .minecraft/saves/world/datapacks folder.
-      
+
           Craft:
      Throw 3 Eye of enders, and 3 Pieces of paper on top of an enchanting table together and you will recieve 3 Marks.
      Place a mark on the ground to mark your location, you will be given a recall Item.
