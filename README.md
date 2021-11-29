@@ -1,8 +1,10 @@
 # [Mark/ Recall]()  
-### Mark and Recall "Spell" in Minecraft!  
-Adds in a Mark and Recall ability similar to what TES games had untill oblivion.    
+### Minecraft: Java Edition - Data Pack
 
-Craft:
+### Mark and Recall "Spell" in Minecraft!  
+__Adds in a Mark and Recall ability similar to what TES games had untill oblivion.__    
+
+Craft:  
 Obtain an Eye of Ender and paper, craft them together and you will recieve 3 Items.  
 Right click the "Mark" to set a Home.  Right Click "Recall" to return to a Home.  
 Right click "Recall Cycle" to cycle thru which home your Mark/Recalling to.  
