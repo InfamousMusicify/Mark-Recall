@@ -11,8 +11,8 @@ Command:
 
      /function markrec:uninstall to unisntall the scoreboards for the datapack. (useful when updating versions)  
 
-__This piggy backs off of VanillaTweaks "[Home](https://vanillatweaks.net/share#LyWCd6)",  
-you will need to download it in order for this pack to work!__  
+__[This piggy backs off of VanillaTweaks "Home",  
+you will need to download it in order for this pack to work!](https://vanillatweaks.net/share#LyWCd6)__  
 
 # [🔗Download🔗](https://github.com/InfamousMusicify/Mark-Recall/archive/refs/heads/master.zip)   
 [How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)   
