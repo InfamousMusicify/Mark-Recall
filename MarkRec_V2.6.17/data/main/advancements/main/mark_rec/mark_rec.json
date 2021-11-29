@@ -1,7 +1,7 @@
 {
     "display": {
-        "title": "MarkRec V2.4.6           ",
-        "description": "/trigger mark_help - for help crafting or using mark/recall.",
+        "title": " Use:                                                                 ",
+        "description": "Obtain an Eye of Ender and paper, craft them together and you will recieve 3 Items.\nRight click the "Mark" to set a Home. Right Click "Recall" to return to a Home.\nRight click "Recall Cycle" to cycle thru which home you're Mark/Recalling to.",
         "icon": {
             "item": "minecraft:ender_pearl"
         },

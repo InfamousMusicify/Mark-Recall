@@ -4,13 +4,13 @@
             "item": "minecraft:beacon"
         },
         "title": {
-            "text": "Mark/Recall",
+            "text": "Mark/Recall                                                    ",
             "color": "white",
             "bold": false,
             "italic": false
         },
         "description": {
-            "text": "Adds Mark/Recall Ability from TES games to the world!",
+            "text": "Adds Mark/Recall Spell from The Elder Scrolls to the world!",
             "color": "green",
             "bold": false,
             "italic": true
