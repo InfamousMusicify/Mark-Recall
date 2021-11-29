@@ -1,0 +1,25 @@
+{
+  "type": "advancement_reward",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Mark\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Mark your location\",\"color\":\"gray\",\"italic\":false}']},CustomModelData:2,Tag:[Mark]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

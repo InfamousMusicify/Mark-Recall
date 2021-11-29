@@ -1,0 +1,25 @@
+{
+  "type": "advancement_reward",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:snowball",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 10
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Cycle Recall\",\"color\":\"white\",\"italic\":false}',Lore:['{\"text\":\"Cycle which # you Mark/Recall to.\",\"color\":\"gray\",\"italic\":false}']},Enchantments:[{}],Tag:[Mark_add]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

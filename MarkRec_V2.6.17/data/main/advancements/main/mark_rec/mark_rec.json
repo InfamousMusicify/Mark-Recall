@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "MarkRec V2.4.6           ",
+        "description": "/trigger mark_help - for help crafting or using mark/recall.",
+        "icon": {
+            "item": "minecraft:ender_pearl"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "main:main/mark_rec",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
