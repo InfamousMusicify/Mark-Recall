@@ -1,5 +1,5 @@
 # [Mark/Recall]()  
-### Mark and Recall - Minecraft: Java Edition - Data Pack
+### Minecraft: Java Edition - Data Pack
 
 ### Mark and Recall "Spell" in Minecraft!  
 __Adds in a Mark and Recall ability similar to what TES games had untill oblivion.__    
