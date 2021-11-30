@@ -11,7 +11,8 @@ Right click "Recall Cycle" to cycle thru which home your Mark/Recalling to.
      
 Command:  
 
-     /function markrec:uninstall  (unisntall the datapack)      delete file in datapack folder afterward.
+     /function markrec:uninstall  (unisntall the datapack)      
+     delete the pack in datapacks folder afterward.
 
 __[This piggy backs off of VanillaTweaks "Home",  
 you will need to download it in order for this pack to work!](https://vanillatweaks.net/share#LyWCd6)__  
