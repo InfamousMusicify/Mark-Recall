@@ -17,7 +17,7 @@ Command:
 ### Hit the advancements key to see in game info and help!
 
 __[This piggy backs off of VanillaTweaks "Home",  
-you will need to download it in order for this pack to work!](https://vanillatweaks.net/share#LyWCd6)__  
+you will need to download it in order for this pack to work!](https://vanillatweaks.net/picker/datapacks/)__  
 
 # [🔗Download🔗](https://github.com/InfamousMusicify/Mark-Recall/archive/refs/heads/master.zip)   
 [How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)   
