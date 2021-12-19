@@ -7,7 +7,7 @@ __Adds in a Mark and Recall ability similar to what TES games had untill oblivio
 Craft:  
 Obtain an Eye of Ender and paper, craft them together and you will recieve 3 Items.  
 Right click the "Mark" to set a Mark.  Right Click "Recall" to return to a Mark.  
-Right click "Cycle Mark" to cycle thru which Mark your Mark/Recalling to.  
+Right click "Cycle Mark" to cycle thru which Mark your'e Mark/Recalling to.  
      
 Command:  
 
