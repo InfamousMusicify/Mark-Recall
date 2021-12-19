@@ -7,7 +7,7 @@ __Adds in a Mark and Recall ability similar to what TES games had untill oblivio
 Craft:  
 Obtain an Eye of Ender and paper, craft them together and you will recieve 3 Items.  
 Right click the "Mark" to set a Home.  Right Click "Recall" to return to a Home.  
-Right click "Recall Cycle" to cycle thru which home your Mark/Recalling to.  
+Right click "Cycle Mark" to cycle thru which home your Mark/Recalling to.  
      
 Command:  
 
