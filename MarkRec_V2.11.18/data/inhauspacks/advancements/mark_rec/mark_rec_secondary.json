@@ -15,7 +15,7 @@
         "announce_to_chat": false,
         "show_toast": false
     },
-    "parent": "main:main/mark_rec/mark_rec",
+    "parent": "inhauspacks:mark_rec/mark_rec",
     "criteria": {
         "trigger": {
             "trigger": "minecraft:tick"
