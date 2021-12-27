@@ -4,12 +4,20 @@
 ### Mark and Recall "Spell" in Minecraft!  
 __Adds in a Mark and Recall ability similar to what TES games had untill oblivion.__    
 
-Craft:  
+__Craft:__  
 Obtain an Eye of Ender and paper, craft them together and you will recieve 3 Items.  
 Right click the "Mark" to set a Mark.  Right Click "Recall" to return to a Mark.  
 Right click "Cycle Mark" to cycle thru which Mark your'e Mark/Recalling to.  
-     
-Command:  
+
+__Mark/Recall Entities: (Mark: 0)__  
+Cycle Mark to 0 to use Entity Recall.  
+Use ''Mark'' near any entity to Mark it.  
+Use ''Recall'' to summon them at will.  
+Sneak and move a little, Right Click ''Recall'' to see whos marked. (Wont summon entities if active)  
+Sneak and move a little, Right Click ''Mark'' to Un-Mark nearest entity.  (unmarks 1 at a time)  
+Right click ''Mark/Recall'' to reset sneak.    
+
+__Command:__  
 
      /function markrec:uninstall  (unisntall the datapack)      
      delete the pack in datapacks folder afterward.
