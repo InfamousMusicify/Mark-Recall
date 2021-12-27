@@ -1,0 +1,24 @@
+{
+    "display": {
+        "title": " Mark/Recall Entities: (Mark: 0)                            ",
+        "description": ["",{"text":"Cycle Mark to 0 to use Entity Recall.","color":"yellow"},
+		{"text":"\n"},{"text":"Use ''Mark'' near any entity to Mark it.","color":"red"},
+		{"text":"\n"},{"text":"Use ''Recall'' to summon them at will.","color":"green"},
+		{"text":"\n"},{"text":"Sneak and move a little, Right Click ''Recall'' to see whos marked.","color":"dark_green"},
+		{"text":"\n"},{"text":"(Wont summon if active)","color":"dark_green"},
+		{"text":"\n"},{"text":"Sneak and move a little, Right Click ''Mark'' to Un-Mark nearest entity.","color":"gold"},
+		{"text":"\n"},{"text":"Right click ''Mark/Recall'' to reset sneak.","color":"aqua"}
+		],
+        "icon": {
+            "item": "minecraft:player_head"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "main:main/mark_rec/mark_rec",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
