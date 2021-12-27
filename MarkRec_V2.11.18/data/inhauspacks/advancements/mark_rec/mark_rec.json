@@ -1,11 +1,11 @@
 {
     "display": {
-        "title": " Using Mark/Recall:                                   ",
+        "title": " Using Mark/Recall                                    ",
         "description": ["",
 		{"text":"Obtain an Eye of Ender and paper, craft them together and you will recieve 3 Items.","color":"red"},
 		{"text":"\n"},{"text":"Right Click ''Recall Cycle'' to switch which mark you're Mark/Recalling to.","color":"gold"},
 		{"text":"\n"},{"text":"Right Click ''Mark'' to set a Mark.","color":"green"},
-		{"text":"\n"},{"text":"Right Click ''Recall'' to return to a Mark.","color":"dark_green"}
+		{"text":"\n"},{"text":"Right Click ''Recall'' to return to Mark.","color":"dark_green"}
 		],
         "icon": {
             "item": "minecraft:ender_eye"
