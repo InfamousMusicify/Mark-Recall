@@ -7,7 +7,7 @@
 		{"text":"\n"},{"text":"Sneak and move a little, Right Click ''Recall'' to see whos marked.","color":"dark_green"},
 		{"text":"\n"},{"text":"(Wont summon if active)","color":"dark_green"},
 		{"text":"\n"},{"text":"Sneak and move a little, Right Click ''Mark'' to Un-Mark nearest entity.","color":"gold"},
-		{"text":"\n"},{"text":"Right click ''Mark/Recall'' to reset sneak.","color":"aqua"}
+		{"text":"\n"},{"text":"Right click ''Mark/Recall'' to reset sneak.","color":"dark_aqua"}
 		],
         "icon": {
             "item": "minecraft:player_head"
