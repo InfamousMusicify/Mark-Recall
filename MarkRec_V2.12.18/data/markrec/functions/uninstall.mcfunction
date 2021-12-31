@@ -7,3 +7,4 @@ scoreboard objectives remove recall
 scoreboard objectives remove markrec_id
 scoreboard objectives remove mark_crouch
 scoreboard objectives remove mark_tag_along
+tag @e remove mark_msg
