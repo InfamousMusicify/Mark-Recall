@@ -11,12 +11,11 @@ Right click "Cycle Mark" to cycle thru which Mark your'e Mark/Recalling to.
 
 __Mark/Recall Entities: (Mark: 0)__  
 Cycle Mark to 0 to use Entity Recall.  
-Use ''Mark'' near any entity to Mark it.  
+Use ''Mark'' near any Mob/Player to Mark them.  (can have multiple marked entities, marks 1 at a time)  
 Use ''Recall'' to summon them at will.  
-Sneak and move a little, Right Click ''Recall'' to see whos marked. (Wont summon entities if active)  
-Sneak and move a little, Right Click ''Mark'' to Un-Mark nearest entity.  (unmarks 1 at a time)  
-Right click ''Mark/Recall'' to reset sneak.    
-
+Sneak and Right Click ''Recall'' to teleport to nearest marked entity.  
+Sneak and Right Click ''Mark'' to Un-Mark nearest entity.  (unmarks 1 at a time)  
+Sneak and Right Click ''Cycle Mark'' to see whos marked. (Wont summon entities if active)  
 __Command:__  
 
      /function markrec:uninstall  (unisntall the datapack)      
@@ -25,8 +24,8 @@ __Command:__
 ### Hit the advancements key to see in game info and help!
 
 __[This piggy backs off of VanillaTweaks "Home",  
-you will need to download it in order for this pack to work!](https://vanillatweaks.net/picker/datapacks/)__  
-
+you will need to download it in order for this pack to work 100%!](https://vanillatweaks.net/picker/datapacks/)__  
+-Location marking wont work without Homes.  Marking entities should work.  
 # [🔗Download🔗](https://github.com/InfamousMusicify/Mark-Recall/archive/refs/heads/master.zip)   
 [How to Install a Datapack](https://youtu.be/JHEjZlVlqGE)   
      
