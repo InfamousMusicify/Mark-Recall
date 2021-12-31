@@ -1,12 +1,13 @@
 {
     "display": {
         "title": " Mark/Recall Entities: (Mark: 0)                            ",
-        "description": ["",{"text":"Cycle Mark to 0 to use Entity Recall.","color":"yellow"},
-		{"text":"\n"},{"text":"Use ''Mark'' near any entity to Mark it.","color":"red"},
-		{"text":"\n"},{"text":"Use ''Recall'' to summon them at will.","color":"green"},
-		{"text":"\n"},{"text":"Sneak and Right Click ''Recall'' to see whos marked.","color":"dark_green"},
-		{"text":"\n"},{"text":"(Wont summon if active)","color":"dark_green"},
-		{"text":"\n"},{"text":"Sneak and Right Click ''Mark'' to Un-Mark nearest entity.","color":"gold"}
+        "description": ["",
+            {"text":"Cycle Mark to 0 to use Entity Recall.","color":"yellow"},
+            {"text":"\n"},{"text":"Use ''Mark'' near any entity to Mark it.","color":"red"},
+            {"text":"\n"},{"text":"Use ''Recall'' to summon them at will.","color":"green"},
+            {"text":"\n"},{"text":"Sneak/ Recall - Teleport to nearest.","color":"dark_aqua"},
+            {"text":"\n"},{"text":"Sneak/ Mark - Un-Mark nearest.","color":"gold"},
+            {"text":"\n"},{"text":"Sneak/ Cycle - see whos marked.","color":"dark_green"}
 		],
         "icon": {
             "item": "minecraft:player_head"
