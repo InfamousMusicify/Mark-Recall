@@ -27,7 +27,7 @@ __[This piggy backs off of VanillaTweaks "Home",
 you will need to download it in order for this pack to work 100%!](https://vanillatweaks.net/picker/datapacks/)__  
 -Location marking wont work without Homes.  Marking entities should work.  
 # [🔗Download🔗](https://github.com/InfamousMusicify/Mark-Recall/archive/refs/heads/master.zip)   
-# [🔗Textures🔗](https://github.com/InfamousMusicify/InHaus-Master)  
+# [🔗Textures🔗](https://github.com/InfamousMusicify/InHaus-Textures) 
 
 [How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)   
      
