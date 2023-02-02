@@ -18,14 +18,14 @@ Sneak and Right Click ''Mark'' to Un-Mark nearest entity.  (unmarks 1 at a time)
 Sneak and Right Click ''Cycle Mark'' to see whos marked. (Wont summon entities if active)  
 __Command:__  
 
+
+     /trigger <mark:marks:setmark:delmark:namemark>  (all players can use these)
+     /function markrec:config  (configure datapack)
      /function markrec:uninstall  (unisntall the datapack)      
      delete the pack in datapacks folder afterward.
 
 ### Hit the advancements key to see in game info and help!
 
-__[This piggy backs off of VanillaTweaks "Home",  
-you will need to download it in order for this pack to work 100%!](https://vanillatweaks.net/picker/datapacks/)__  
--Location marking wont work without Homes.  Marking entities should work.  
 # [🔗Download🔗](https://github.com/InfamousMusicify/Mark-Recall/archive/refs/heads/master.zip)   
 # [🔗Textures🔗](https://github.com/InfamousMusicify/InHaus-Textures/releases) 
 
