@@ -1,0 +1,4 @@
+execute if entity @s[tag=marks.nameSet] run tellraw @s [{"score":{"name":"#id","objective":"marks.dummy"},"color":"gold"},{"text":". ","color":"gold"},{"storage":"markrec:storage","nbt":"temp[0].name","interpret":true,"color":"yellow"}]
+execute unless entity @s[tag=marks.nameSet] if score #id marks.dummy matches 1 run tellraw @s [{"text":"1. ","color":"gold"},{"text":"mark","color":"yellow"}]
+execute unless entity @s[tag=marks.nameSet] unless score #id marks.dummy matches 1 run tellraw @s [{"score":{"name":"#id","objective":"marks.dummy"},"color":"gold"},{"text":". ","color":"gold"},{"text":"mark ","color":"yellow"},{"score":{"name":"#id","objective":"marks.dummy"},"color":"yellow"}]
+#done
