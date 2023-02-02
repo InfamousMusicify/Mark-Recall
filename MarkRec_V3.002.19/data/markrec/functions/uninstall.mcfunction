@@ -19,3 +19,11 @@ scoreboard objectives remove marks.x
 scoreboard objectives remove marks.y
 scoreboard objectives remove marks.z
 #done
+scoreboard objectives remove mark_add
+scoreboard objectives remove mark_track
+scoreboard objectives remove recall
+scoreboard objectives remove markrec_id
+scoreboard objectives remove mark_crouch
+scoreboard objectives remove mark_tag_along
+scoreboard objectives remove mark.recall
+tag @e remove mark_msg
