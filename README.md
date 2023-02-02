@@ -21,9 +21,9 @@ __Command:__
 
      /trigger <mark:marks:setmark:delmark:namemark>  (all players can use these)
      /function markrec:config  (configure datapack)
-     /function markrec:uninstall  (unisntall the datapack)      
-     delete the pack in datapacks folder afterward.
-
+     /function markrec:uninstall  (unisntall the datapack)   
+        
+  
 ### Hit the advancements key to see in game info and help!
 
 # [🔗Download🔗](https://github.com/InfamousMusicify/Mark-Recall/archive/refs/heads/master.zip)   
