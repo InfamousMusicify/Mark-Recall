@@ -16,11 +16,14 @@ execute unless score #limit marks.config matches 0.. run scoreboard players set 
 execute unless score #delay marks.config matches 0.. run scoreboard players set #delay marks.config 0
 execute unless score #cooldown marks.config matches 0.. run scoreboard players set #cooldown marks.config 0
 #done
-
+# "SetHome # Tracker"
+scoreboard objectives add mark_track dummy
+# "Set Marker"
+scoreboard objectives add mark.recall minecraft.used:minecraft.carrot_on_a_stick
 #port principles:
-#the word 'mark' in this load file now = mark
-#marks = marks
-#mark: = markrec:  
+#the word 'home' in this load file now = mark
+#homess = marks
+#home: = markrec:  
 #
 #
 #

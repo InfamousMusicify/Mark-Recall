@@ -1,0 +1,5 @@
+execute if entity @s[tag=marks.nameSet] if score #mark marks.dummy matches 1 run tellraw @s [{"storage":"markrec:storage","nbt":"players[-1].marks[-1].name","interpret":true,"color":"yellow"},{"text":" name reset to ","color":"gold"},{"text":"Mark","color":"yellow"},{"text":".","color":"gold"}]
+execute if entity @s[tag=marks.nameSet] unless score #mark marks.dummy matches 1 run tellraw @s [{"storage":"markrec:storage","nbt":"players[-1].marks[-1].name","interpret":true,"color":"yellow"},{"text":" name reset to ","color":"gold"},{"text":"Mark ","color":"yellow"},{"score":{"name":"#mark","objective":"marks.dummy"},"color":"yellow"},{"text":".","color":"gold"}]
+execute unless entity @s[tag=marks.nameSet] if score #mark marks.dummy matches 1 run tellraw @s [{"text":"Mark","color":"yellow"},{"text":" name reset to ","color":"gold"},{"text":"mark","color":"yellow"},{"text":".","color":"gold"}]
+data remove storage markrec:storage players[-1].marks[-1].name
+#done
