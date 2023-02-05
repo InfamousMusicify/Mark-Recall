@@ -1,3 +1,10 @@
+#load
+#patch
+execute unless score #patch marks.config matches 0.. unless score #patch marks.config matches ..0 run scoreboard players add #patch marks.config 0
+### Update Patch ###  - tem,p upded, change interanl after im done!
+execute if score #patch marks.config matches ..60 run function markrec:patch
+
+
 scoreboard objectives add setmark trigger "Set Mark"
 scoreboard objectives add marks trigger "Marks"
 scoreboard objectives add mark trigger "Mark"
@@ -15,11 +22,17 @@ scoreboard objectives add marks.limit dummy "Max Mark Limit"
 execute unless score #limit marks.config matches 0.. run scoreboard players set #limit marks.config 5
 execute unless score #delay marks.config matches 0.. run scoreboard players set #delay marks.config 0
 execute unless score #cooldown marks.config matches 0.. run scoreboard players set #cooldown marks.config 0
+
 #done
 # "SetHome # Tracker"
 scoreboard objectives add mark_track dummy
 # "Set Marker"
 scoreboard objectives add mark.recall minecraft.used:minecraft.carrot_on_a_stick
+# "Toggle to unmark players/entities with cycle"
+scoreboard objectives add mark_crouch minecraft.custom:minecraft.sneak_time
+
+
+
 #port principles:
 #the word 'home' in this load file now = mark
 #homess = marks
