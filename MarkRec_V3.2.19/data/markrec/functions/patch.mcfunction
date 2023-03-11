@@ -7,4 +7,4 @@ execute if score #patch marks.config matches ..50 run scoreboard players set #pa
 #update both patch numbers when patching
 function markrec:reinstall
 #
-#say patching mark
+say patching mark

@@ -1,8 +1,11 @@
 #load
 #patch
-execute unless score #patch marks.config matches 0.. unless score #patch marks.config matches ..0 run scoreboard players add #patch marks.config 0
-### Update Patch ###  - tem,p upded, change interanl after im done!
-execute if score #patch marks.config matches ..60 run function markrec:patch
+### Update Patch ### 
+# dev purposes only because apperntly this is broken for some ungodly unintuitive reason - literally the same command down below is working... i dont fucking know............
+#execute unless score #patch marks.config matches 0.. run scoreboard players set #patch marks.config 0
+#scoreboard players add #patch marks.config 0
+# - Stable 3.1+ = 61
+#execute if score #patch marks.config matches ..60 run function markrec:patch
 
 
 scoreboard objectives add setmark trigger "Set Mark"
