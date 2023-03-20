@@ -34,7 +34,10 @@ scoreboard objectives add mark.recall minecraft.used:minecraft.carrot_on_a_stick
 # "Toggle to unmark players/entities with cycle"
 scoreboard objectives add mark_crouch minecraft.custom:minecraft.sneak_time
 
+scoreboard objectives add mark_tag_along dummy
 
+# "Player ID"
+scoreboard objectives add markrec_id dummy
 
 #port principles:
 #the word 'home' in this load file now = mark
