@@ -1,8 +1,12 @@
-# [Mark/Recall]()  
+# [Mark/Recall](https://github.com/InfamousMusicify/Mark-Recall/blob/master/Downloads.md)  
 ### Minecraft: Java Edition - Data Pack
 
 ### Mark and Recall "Spell" in Minecraft!  
 __Adds in a Mark and Recall ability similar to what TES games had untill oblivion.__    
+
+### [🔗Downloads🔗](https://github.com/InfamousMusicify/Mark-Recall/blob/master/Downloads.md) - [🔗Textures🔗](https://github.com/InfamousMusicify/InHaus-Textures/blob/master/Downloads.md)      
+
+### Hit the advancements key to see in game info and help!
 
 __Craft:__  
 Obtain an Eye of Ender and paper, craft them together and you will recieve 3 Items.  
@@ -24,10 +28,6 @@ __Command:__
      /function markrec:uninstall  (unisntall the datapack)   
         
   
-### Hit the advancements key to see in game info and help!
-
-# [🔗Download🔗](https://github.com/InfamousMusicify/Mark-Recall/archive/refs/heads/master.zip)   
-# [🔗Textures🔗](https://github.com/InfamousMusicify/InHaus-Textures/releases) 
 
 [How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)   
      
