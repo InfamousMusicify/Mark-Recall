@@ -22,7 +22,7 @@ scoreboard objectives add marks.x dummy
 scoreboard objectives add marks.y dummy
 scoreboard objectives add marks.z dummy
 scoreboard objectives add marks.limit dummy "Max Mark Limit"
-execute unless score #limit marks.config matches 0.. run scoreboard players set #limit marks.config 5
+execute unless score #limit marks.config matches 0.. run scoreboard players set #limit marks.config 2
 execute unless score #delay marks.config matches 0.. run scoreboard players set #delay marks.config 0
 execute unless score #cooldown marks.config matches 0.. run scoreboard players set #cooldown marks.config 0
 
