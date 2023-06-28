@@ -11,7 +11,7 @@
 
 ### [🔗1.17](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.17/MarkRec_V3.6.1-1.17.zip)   
 
-### [🔗1.16.2 - 1.16.5](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.16.2/MarkRec_V3.6.1-1.16.2.zip)   
+### [🔗1.16.2 - 1.16.5](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.16.2/MarkRec_V3.6.1-1.16.zip)   
 
 ### [🔗1.15 - 1.16.1](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.15-1.16.1/MarkRec_V3.6.1-1.15-16.zip)   
 
