@@ -5,9 +5,7 @@
 
 ### [🔗1.19](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.19/MarkRec_V3.6.1-1.19.zip) - [🔗1.19.4](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.19.4/MarkRec_V3.6.1-1.19.4.zip)   
 
-### [🔗1.18.2](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.18.2/MarkRec_V3.6.1-1.18.2.zip)  
-
-### [🔗1.18](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.18/MarkRec_V3.6.1-1.18.zip)   
+### [🔗1.18](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.18/MarkRec_V3.6.1-1.18.zip) - [🔗1.18.2](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.18.2/MarkRec_V3.6.1-1.18.2.zip)    
 
 ### [🔗1.17](https://github.com/InfamousMusicify/Mark-Recall/releases/download/1.17/MarkRec_V3.6.1-1.17.zip)   
 
