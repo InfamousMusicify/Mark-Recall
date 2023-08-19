@@ -10,24 +10,16 @@ __Adds in a Mark and Recall ability similar to what TES games had untill oblivio
 
 __Craft:__  
 Obtain an Eye of Ender and paper, craft them together and you will recieve 3 Items.  
-Right click the "Mark" to set a Mark.  Right Click "Recall" to return to a Mark.  
-Right click "Cycle Mark" to cycle thru which Mark your'e Mark/Recalling to.  
+__Use:__  
+Right click "Mark" to set a Mark.   
+Right Click "Recall" to return to a Mark.   
+Right click "Cycle" to cycle the Mark too Mark/Recall to.  
 
-__Mark/Recall Entities: (Mark: 0)__  
-Cycle Mark to 0 to use Entity Recall.  
-Use ''Mark'' near any Mob/Player to Mark them.  (can have multiple marked entities, marks 1 at a time)  
-Use ''Recall'' to summon them at will.  
-Sneak and Right Click ''Recall'' to teleport to nearest marked entity.  
-Sneak and Right Click ''Mark'' to Un-Mark nearest entity.  (unmarks 1 at a time)  
-Sneak and Right Click ''Cycle Mark'' to see whos marked. (Wont summon entities if active)  
 __Command:__  
-
 
      /trigger <mark:marks:setmark:delmark:namemark>  (all players can use these)
      /function markrec:config  (configure datapack)
      /function markrec:uninstall  (unisntall the datapack)   
-        
-  
 
 [How to Install a Datapack](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/)   
      
