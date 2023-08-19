@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "crafted_mark": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:player"
+              }
+            }
+          ],
+          "recipe_id": "markrec:mark_rcp"
+        }
+      }
+    },
+    "rewards": {
+      "function": "markrec:crafted_mark"
+    }
+  }
