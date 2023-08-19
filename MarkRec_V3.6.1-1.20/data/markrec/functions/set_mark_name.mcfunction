@@ -1,7 +1,0 @@
-execute if data storage markrec:storage players[-1].marks[-1].name run tag @s add marks.nameSet
-execute if entity @s[tag=marks.nameSet] run tellraw @s [{"storage":"markrec:storage","nbt":"players[-1].marks[-1].name","interpret":true,"color":"yellow"},{"text":" name set to ","color":"gold"},{"entity":"@s","nbt":"SelectedItem.tag.display.Name","interpret":true,"color":"yellow"},{"text":".","color":"gold"}]
-execute unless entity @s[tag=marks.nameSet] if score #mark marks.dummy matches 1 run tellraw @s [{"text":"Mark","color":"yellow"},{"text":" name set to ","color":"gold"},{"entity":"@s","nbt":"SelectedItem.tag.display.Name","interpret":true,"color":"yellow"},{"text":".","color":"gold"}]
-execute unless entity @s[tag=marks.nameSet] unless score #mark marks.dummy matches 1 run tellraw @s [{"text":"Mark ","color":"yellow"},{"score":{"name":"#mark","objective":"marks.dummy"},"color":"yellow"},{"text":" name set to ","color":"gold"},{"entity":"@s","nbt":"SelectedItem.tag.display.Name","interpret":true,"color":"yellow"},{"text":".","color":"gold"}]
-tag @s remove marks.nameSet
-data modify storage markrec:storage players[-1].marks[-1].name set from entity @s SelectedItem.tag.display.Name
-#done
